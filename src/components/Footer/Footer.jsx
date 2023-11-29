@@ -31,7 +31,7 @@ const Footer = () => {
 
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
                 <span>Friday - Saturday</span>
-                <p>Off day</p>
+                <p>Half day</p>
               </ListGroupItem>
             </ListGroup>
           </Col>
@@ -47,7 +47,7 @@ const Footer = () => {
               </ListGroupItem>
 
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
-                <span>Email: abhinav@gmail.com</span>
+                <span>Email: FoodieHeaven@gmail.com</span>
               </ListGroupItem>
             </ListGroup>
           </Col>
